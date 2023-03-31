@@ -1,0 +1,182 @@
+1)Write a program to find whether a given year is a leap year or not satisfying all the possible condition for a leap year?
+
+2) Write a program to Convert temperature entered in Fahrenheit to Celsius ?
+
+Hint: The conversion formula is Celsius = (F-32) / 1.8
+
+3) Write a program to calculate factorial of a number by accepting input from the user?
+
+4)Write a program to calculate the sum and average of First n natural numbers by taking n as input from the user?
+
+5)Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
+between 1 and 200 (both included).
+
+The numbers obtained should be printed in a comma-separated sequence on a single line along with the total number count.
+
+6)Write a program to find the sum of squares of first 20 Odd numbers?
+
+7)Write a program that accepts a sentence and calculate the number of letters and digits.
+
+Suppose the following input is supplied to the program:
+hello Codegnan! 243
+
+Then, the output should be:
+
+LETTERS 13
+DIGITS 3
+
+8)write a program to print the multiplication table of n,by taking n as input from user
+
+9)Write a program to calculate the area of the traingle by accepting base and height as integer/float input from the user?
+
+10)Write a program to find the greatest number from three numbers by accepting three integer inputs from the user?
+
+11)Write a program that prompts the user to enter a number between 1-7 and then displays the corresponding day of the week.
+
+12)Write a Python program to convert Imperial Units of Inches with the Metric Units of Centimetres by if-elif-else by accepting float value of units and ask whether inches or cms from the user and then convert that means two inputs from the user?
+
+13)write a program to determine whether the character entered is a vowel or not by using logical operator?
+
+14)Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters.
+Suppose the following input is supplied to the program:
+Hello Codegnan!
+Then, the output should be:
+UPPER CASE 2
+LOWER CASE 11
+
+15)Write a program to evaluate whether the given number is even or odd by accepting input from the user?
+
+16)Create a Dictionary from the below list
+a = ['Codegnan','Saketh','Python'] and the dictionary should be as d = {'Codegnan':'Vjwda', 'Saketh':'Vjwda','Python':'Vjwda'}
+
+17)Write a Python program to check if the given value exists in dictionary or not using if-else by accepting value as string from the user?
+
+Your input is 
+a ={'sno':1,'name':'Codegnan','place':'Vijayawada'}
+
+18)Merge two Python dictionaries into one new dictionary?
+
+your inputs are as follows:
+a = {'sno':[1,2,3,4],'names':['Codegnan','Saketh','Python']}
+b={'Gender':{'Male','Female'},'place':['Vijayawada','Mnglgiri']}
+
+Output should be as:
+
+{'sno': [1, 2, 3, 4], 'names': ['Codegnan', 'Saketh', 'Python'], 'Gender': {'Female', 'Male'}, 'place': ['Vijayawada', 'Mnglgiri']}
+
+19)With a given number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included)and then the program should print the dictionary.
+Suppose the following input is supplied to the program:
+8
+Then, the output should be:
+{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
+
+20)Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated 
+sequence after sorting them alphabetically.
+
+Suppose the following input is supplied to the program:
+
+iris,air,saketh,bat,cat,mat
+
+Output should be as:
+
+air,bat,cat,iris,mat,saketh
+
+21)Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number.
+The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+
+22) Write a Python program to print Prime Numbers within given range such as accepting two inputs from user and print in that range?
+
+23)Write a Python Program to display which letters are present in both the strings by accepting two strings from user?
+
+24)Write a Python Program to find the factors of a number by accepting input from the user?
+
+25)Write a Python program to count the even numbers in the list by accepting list as input from the user?
+
+26)Write a Python program which iterates the numbers from 1 to 50 (including 50).For multiples of 3 print "Codegnan" instead of number in output,and for the multiples of five print "Python". For numbers which are multiples of both three and five print "I love Codegnan". 
+
+27)Write a Python program to convert month name to a number of days by accepting month name from the user?
+
+
+28)Write a program which accepts a sequence of comma-separated numbers from console and generate a list and a tuple which contains every number.
+Suppose the following input is supplied to the program:
+14,7,5,33,22,8
+
+Then, the output should be:
+
+['14', '7', '5', '33', '22', '8']
+('14', '7', '5', '33', '22', '8')
+
+29)Write a Python Program to accept two numbers from user and find the sum and
+product  of two numbers,your code should be in two lines only?
+
+30)write a program that displays all leap years from 1900-2101 along with the count of leap years in given range by satisfying all the conditions for a Leap year?
+
+31)Write a Python Program to find the sum of values in the dictionary?
+Dictionary is a = {'Codegnan': 250,'Saketh':300,'Python':250,'Monday':200}
+
+32)Write a Python program to check a triangle is equilateral, isosceles or scalene by accepting 3 sides as input from the user?
+
+An equilateral triangle is a triangle in which all three sides are equal.
+A scalene triangle is a triangle that has three unequal sides.
+An isosceles triangle is a triangle with (at least) two equal sides.
+
+33)Write a Python Program to print the following pattern?
+
+1                                                                                                             
+22                                                                                                            
+333                                                                                                           
+4444                                                                                                          
+55555                                                                                                         
+666666                                                                                                        
+7777777                                                                                                       
+88888888                                                                                                      
+999999999 
+
+
+34)Write a Python program to add 'ing' at the end of a given string (length should be at least 3). If the given string already ends with 'ing' then add 'ly' instead. If the length of the given string is less than 3, leave it unchanged.
+
+35)Write a Python program that takes multiple words as input from user (store in list) and return the longest word and the length of the longest one?
+
+36)Write a Python program to remove the list values in the given dictionary?
+
+your dictionary is :
+a  = {'Monday': [10, 20, 30], 'Tuesday': [20, 30, 40], 'Wednesday': [12,15,16,28],'Thursday':[52,12,36,6],
+      'Friday':[15,16,28,9,25],'Saturday':[15,25,35,45]}
+
+Output is: {'Monday': [], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': []}
+
+37)Define a function that can receive two integral numbers in string form and compute their sum and then print it in console
+
+38)Evalue the conditions for the given below logic:
+
+	f(x)  =  { 3x-1  (x>1)
+		   x+2   (-1<=x<=1)
+		   5x+3  (x<=-1       }
+
+39)Your input string is a = "silent" output string should be as b = "listen" ?
+
+40)Accept Username and password as strings from user and validate username with password,such as if username and password are matching login success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

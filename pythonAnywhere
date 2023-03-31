@@ -1,0 +1,24 @@
+Deployment of Python apctn
+->Have  your project folder ready with requirements file
+
+->create a new project folder in root directory
+
+->upload necessary templates and app file -->Files option
+
+->In databases tab-->create a new databases -->open dbshell and create necessary tables
+
+->open bash console in your project folder and give pip install -r requirements.txt
+
+->Go to Web tab then build a new web app
+
+choose python version and Frame work -->Flask then change the app file location to your root floder 
+eg:-/home/jeevamani/my site(spm)/app.py
+
+->Restart the server and open the configuration link -->Hello from flask
+
+->As your app file code is completely modified copy paste your entire source code and remove app.run() before making all 
+configuration changes (host,useername,password(pwd),database(db)
+
+->finally restart the sersver and check link..(webapp is live)
+
+save all your pwds in a textfile

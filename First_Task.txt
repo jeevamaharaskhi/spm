@@ -1,0 +1,53 @@
+1) Write a program to print the reverse of the number 123456789 such that the output type is also a number ?
+
+2)Write a program to copy specific elements from one tuple to another tuple your input is as follows 
+
+a = ('python','saketh',25,'codegnan',36,'mentor',[1,4,5],26)
+
+Output should as b = ('saketh', 'codegnan', 'mentor', 26)
+
+3) Your input string is a = 'ppy!'output string should be as 'papaya!' ?
+
+4) You have two lists as below:
+
+a = ["I'","work", "i", "Code"]
+
+b = ["am", "ing", "n", "gnan"]
+
+Output should be as ["I'am working in Codegnan"]
+
+5) Your input is a = ["a", "b", ["c", ["d", "e", ["f", "g"], "k"], "l"], "m", "n"]
+
+Your output should be as below:
+
+['a', 'b', ['c', ['d', 'e', ['f', 'g', 'h', 'i', 'j'], 'k'], 'l'], 'm', 'n']
+
+6)a= "Ivis";b="code"
+
+Create a mixed String:
+
+Given two strings, a and b. Write a program to create a new string c made of the first char of a, then the last char of b, Next, the second char of a and second last char of b, and so on.
+
+Output should be as 'Ievdiosc'
+
+7)Find all the occurances(count) of "Codegnan" in the given string ignoring the case
+
+a = 'I work in Codegnan,and codegnan is in Mangalagiri & I love codegnan'
+
+8)Write a Program to split a string on hyphens and display as list 
+
+your input is a="Saketh-is-Python-Mentor"
+
+output should be as b = ['Saketh','is','Python','Mentor']
+
+9)Write a program to reverse word order of the given string?
+
+a = "Python learning am I"
+
+output should be as b = 'I am learning Python'
+
+10)Your input string is a = "silent" output string should be as b = "listen" ?
+
+
+
+
